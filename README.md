@@ -1,1 +1,1 @@
-# statistics
+# Applied statistics
